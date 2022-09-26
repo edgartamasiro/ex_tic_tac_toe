@@ -118,3 +118,4 @@ while next == 0:
     else:
         tic_tac_toe.reset()
         next = 0
+# editado no github
